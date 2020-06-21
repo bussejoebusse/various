@@ -1,3 +1,4 @@
+##credit <https://nicercode.github.io/guides/mcmc/>
 
 ##define the mean and standard deviation of a normal distribution
 ##the aim is to estimate the mean using monte carlo methods
